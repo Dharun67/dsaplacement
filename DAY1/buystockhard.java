@@ -10,9 +10,7 @@ class buystockhard {
 
 
         for(int price : prices) {
-
-
-            // First transaction buy
+            
             buy1 = Math.max(
                     buy1,
                     -price
