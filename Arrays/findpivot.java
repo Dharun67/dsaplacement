@@ -20,3 +20,6 @@ class Solution {
         return -1;
     }
 }
+
+
+// comes under the prefix sums and also basic array concep , i solved using prefix sum , i has better time complextiy
